@@ -11,9 +11,7 @@ def main():
     print("Downloading... " + yt.title)
     ys.download(destination)
     x = input("Do you want only the audio:")
-    if x == "Yes" or "yes":
-        convert()
-        
+    
         
 
 
