@@ -2,7 +2,5 @@
 
 Youtube downloader is an application to download Youtube Videos
 
-##Targets
-
-[]Create a GUI
-[]Allow download the video as an audio
+> [IMPORTANT]
+> This program doesn't work now, because of library that I use doesn't work now
